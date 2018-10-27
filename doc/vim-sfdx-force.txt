@@ -1,0 +1,35 @@
+*vim-sfdx-force* vim extension for SalesForceDX
+
+
+       _                    _              __                   
+      (_)                  | |            / _|                  
+__   ___ _ __ ___ ______ __| |_  ________| |_ ___  _ __ ___ ___ 
+\ \ / / | '_ ` _ \______/ _` \ \/ /______|  _/ _ \| '__/ __/ _ \
+ \ V /| | | | | | |    | (_| |>  <       | || (_) | | | (_|  __/
+  \_/ |_|_| |_| |_|     \__,_/_/\_\      |_| \___/|_|  \___\___|
+
+
+
+
+====================================================================
+CONTENTS                                            *vim-sfdx-force-contents*
+
+    1. Usage ................ |vim-sfdx-forceUsage|
+    2. Mappings ............. |vim-sfdx-forceMappings|
+    3. License .............. |vim-sfdx-forceLicense|
+    4. Bugs ................. |vim-sfdx-forceBugs|
+    5. Contributing ......... |vim-sfdx-forceContributing|
+    6. Changelog ............ |vim-sfdx-forceChangelog|
+    7. Credits .............. |vim-sfdx-forceCredits|
+
+
+
+
+
+====================================================================
+Section 1: Usage                                       *vim-sfdx-forceUsage*
+
+This plugin with automatically provide syntax highlighting for
+Apex, SOQL, and Lightning bundles.
+
+It also...
